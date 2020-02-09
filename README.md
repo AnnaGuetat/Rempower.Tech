@@ -4,6 +4,7 @@ Title: Rempower.Tech
 Descriptive Title: Biomarkers Analysis and Emotion Detection for Management of Mental Well-Being and Community Empowerment.
 
 Project Scope
+
   The scope of the project is to introduce an Internet of Emotions (IoE) social platform for retreats in Hong Kong called Rempower.Tech. 
   The solution focuses on emotion detection and selectively on biometric parameters to provide actionable insight and prevent mental well-being deterioration. 
   The deliverables of this project are: 
