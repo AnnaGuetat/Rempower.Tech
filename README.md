@@ -6,12 +6,14 @@ Project Scope
   The scope of the project is to introduce an Internet of Emotions (IoE) social platform for retreats in Hong Kong called Rempower.Tech. 
   The solution focuses on emotion detection and selectively on biometric parameters to provide actionable insight and prevent mental well-being deterioration. 
   The deliverables of this project are: 
+  
     - Interactive and responsive web site with:
     - A login and profile management
     - Search/matchmaking engine for retreat services
     - Event management
     - Digital brand design
     - Technology platform incorporating  1 to 3 wearable devices with output data analytics, visualizations, and predictions
+    
 An additional goal of this project is to create a technology back office for the company’s operations.
 
 Project Goal
