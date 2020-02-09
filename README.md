@@ -28,7 +28,7 @@ Link to GitHub repository (please share it with me on https://github.com/colabor
 Shared folder with all content and/or data for your project: My Google Drive 
 
 Other resources: 
-  Social Media LinkedIn: https://www.linkedin.com/company/28385749
-  Social Media Instagram:https://www.instagram.com/rempowertech/
-  Social Media Eventbrite: https://www.eventbrite.hk/e/the-new-decade-is-female-tickets-90267453383?ref=eios
-  Email: contact@rempoer.tech
+  - Social Media LinkedIn: https://www.linkedin.com/company/28385749
+  - Social Media Instagram:https://www.instagram.com/rempowertech/
+  - Social Media Eventbrite: https://www.eventbrite.hk/e/the-new-decade-is-female-tickets-90267453383?ref=eios
+  - Email: contact@rempoer.tech
