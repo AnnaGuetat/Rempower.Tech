@@ -1,5 +1,6 @@
 
 Title: Rempower.Tech 
+
 Descriptive Title: Biomarkers Analysis and Emotion Detection for Management of Mental Well-Being and Community Empowerment.
 
 Project Scope
