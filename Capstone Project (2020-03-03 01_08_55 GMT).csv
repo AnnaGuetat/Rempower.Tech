@@ -1,0 +1,65 @@
+"WBS #","Name / Title",Type,"Start Date","End Date","Estimated Hours","Actual Hours","Percent Complete",Resources,Predecessors,Notes,Comments,"Task Color"
+1,"Capstone Project",project,2020-01-27,2020-04-10,0,0,56.2,,,,,
+1.1,"Week 1 - Concept",group,2020-01-27,2020-02-07,0,0,96.67,,,,,
+1.1.1,"Finish re-writing capstone proposal",task,2020-01-27,2020-01-31,0,0,80,,,,,blue2
+1.1.2,"Capstone Proposal",milestone,2020-02-01,2020-02-01,0,0,100,,1.1.1,,,blue2
+1.1.3,"Setting Up Server and Installing Proper Softwar",task,2020-01-27,2020-01-29,0,0,100,,,,,blue2
+1.1.4,"Setting Up Project in Project Management System (SEO, Social Media, Analytics)",task,2020-01-27,2020-01-29,0,0,100,,,,,blue2
+1.1.5,"Wireframe the website",task,2020-01-30,2020-02-07,0,0,100,,,,,blue2
+1.1.6,"Start to write up the content",task,2020-01-30,2020-02-07,0,0,100,,,,,blue2
+1.2,"Week 2 – Branding & Design",group,2020-02-01,2020-02-11,0,0,100,,,,,
+1.2.1,Wireframe,milestone,2020-02-08,2020-02-08,0,0,100,,"1.1.2,1.1.5",,,blue2
+1.2.2,"Branding Guidelines",task,2020-02-01,2020-02-07,0,0,100,,,,,blue2
+1.2.3,Branding,milestone,2020-02-09,2020-02-09,0,0,100,,"1.1.2,1.2.2",,,blue2
+1.2.4,"Home Page",task,2020-02-06,2020-02-09,0,0,100,,,,,blue2
+1.2.5,Navigation,task,2020-02-06,2020-02-09,0,0,100,,,,,blue2
+1.2.6,Footer,task,2020-02-06,2020-02-09,0,0,100,,,,,blue2
+1.2.7,Header,task,2020-02-06,2020-02-09,0,0,100,,,,,blue2
+1.2.8,Styling,task,2020-02-06,2020-02-09,0,0,100,,,,,blue2
+1.2.9,"Website Design Outline",milestone,2020-02-11,2020-02-11,0,0,100,,"1.2.1,1.2.3,1.2.4,1.2.5,1.2.6,1.2.7,1.2.8",,,blue2
+1.2.10,"Wearable Device Delivery",task,2020-02-06,2020-02-07,0,0,100,,,,,green1
+1.2.11,"Wearable Delivered",milestone,2020-02-08,2020-02-08,0,0,100,,1.2.10,,,blue2
+1.2.12,"Cybersecurity check on wearables",task,2020-02-06,2020-02-09,0,0,100,,,,,green1
+1.3,"Week 3 – The Foundation",group,2020-02-15,2020-02-23,0,0,100,,,,,
+1.3.1,"Set Up GitHub Repo",task,2020-02-15,2020-02-18,0,0,100,,,,,blue2
+1.3.2,"WhitePaper, research Reads",task,2020-02-15,2020-02-23,0,0,100,,,,,green1
+1.3.3,"Contact Form",task,2020-02-15,2020-02-23,0,0,100,,,,,blue2
+1.3.4,"Google Maps Set Up",task,2020-02-15,2020-02-23,0,0,100,,,,,blue2
+1.3.5,"Accessibility Test",task,2020-02-15,2020-02-23,0,0,100,,,,,blue2
+1.3.6,"Responsiveness Test",task,2020-02-15,2020-02-23,0,0,100,,,,,blue2
+1.3.7,"Social media links",task,2020-02-15,2020-02-23,0,0,100,,,,,blue2
+1.4,"Week 4 – Functionality",group,2020-02-24,2020-03-08,0,0,62.31,,,,,
+1.4.1,"Event Management",task,2020-02-24,2020-03-08,0,0,30,,,,,blue2
+1.4.2,LiveChat,task,2020-02-24,2020-02-29,0,0,100,,,,,blue2
+1.4.3,"Contact Form Fix",task,2020-02-24,2020-02-29,0,0,100,,,,,blue2
+1.5,"Week 5 – Quality",group,2020-03-02,2020-03-13,0,0,2.67,,,,,
+1.5.1,"Select Membership/Community Solution",task,2020-03-02,2020-03-05,0,0,0,,,,,blue2
+1.5.2,"Login and Profile Page",task,2020-03-02,2020-03-08,0,0,0,,,,,blue2
+1.5.3,"Website Quality Tests (Speed, Usability, Accessibility)",task,2020-03-02,2020-03-11,0,0,0,,,,,blue2
+1.5.4,"Database for mentors and coaches",task,2020-03-06,2020-03-13,0,0,0,,,,,blue2
+1.5.5,"Install App",task,2020-03-02,2020-03-05,0,0,0,,,,,green1
+1.5.6,"Device Set Up",task,2020-03-02,2020-03-07,0,0,20,,,,,green1
+1.5.7,"Device Set Up and Connected",milestone,2020-03-08,2020-03-08,0,0,0,,1.5.6,,,blue2
+1.5.8,"Connect to cloud (raw data access)",task,2020-03-09,2020-03-12,0,0,0,,,,,green1
+1.5.9,"Wearable Foundation Set Up",milestone,2020-03-13,2020-03-13,0,0,0,,"1.1.2,1.2.11,1.2.12,1.3.1,1.3.2,1.5.5,1.5.7,1.5.8",,,blue2
+1.6,"Week 6 - Analytics",group,2020-03-09,2020-03-15,0,0,33.33,,,,,
+1.6.1,"Social Media (LinkedIn, Instagram)",task,2020-03-09,2020-03-15,0,0,100,,,,,blue2
+1.6.2,"Mapping for optimisation SEO",task,2020-03-09,2020-03-15,0,0,0,,,,,blue2
+1.6.3,"Google Analytics",task,2020-03-09,2020-03-15,0,0,100,,,,,blue2
+1.6.4,"Collect Data",task,2020-03-09,2020-03-15,0,0,0,,,,,green1
+1.6.5,"Visualize Data",task,2020-03-09,2020-03-15,0,0,0,,,,,green1
+1.6.6,"Primary Analysis",task,2020-03-09,2020-03-15,0,0,0,,,,,green1
+1.7,"Week 7 – Experience",group,2020-03-16,2020-03-22,0,0,0,,,,,
+1.7.1,"Website Quality test",task,2020-03-16,2020-03-22,0,0,0,,,,,blue2
+1.8,"Week 8 – Iterations",group,2020-02-17,2020-02-23,0,0,6.67,,,,,
+1.8.1,Responsiveness,task,2020-02-17,2020-02-23,0,0,10,,,,,blue2
+1.8.2,Accessability,task,2020-02-17,2020-02-23,0,0,10,,,,,blue2
+1.8.3,"Database of coaches",task,2020-02-17,2020-02-23,0,0,0,,,,,blue2
+1.9,"Week 9 - Iterations",group,2020-02-12,2020-04-05,0,0,0,,,,,
+1.9.1,"Content Development",task,2020-03-30,2020-04-05,0,0,0,,,,,blue2
+1.9.2,"Content Curation",milestone,2020-02-12,2020-02-12,0,0,0,,1.1.6,,,blue2
+1.10,"Week 10 – Debugging",group,2020-04-06,2020-04-10,0,0,0,,,,,
+1.10.1,"Web Fixes",task,2020-04-06,2020-04-10,0,0,0,,,,,blue2
+1.11,"Week 11 – Report Out",group,,,0,0,0,,,,,
+1.11.1,"Build Presentation",task,,,0,0,0,,,,,blue2
+1.12,"Week 12 – Final Presentation",group,,,0,0,0,,,,,
